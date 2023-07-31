@@ -1,3 +1,4 @@
 "Lo que somos
-somos programadores"",
+somos programadores
+hacemos que el mundo se mueva",
 
