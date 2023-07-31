@@ -1,1 +1,3 @@
-"Lo que somos:",,
+"Lo que somos
+somos programadores"",
+
